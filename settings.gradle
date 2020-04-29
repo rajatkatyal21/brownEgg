@@ -1,0 +1,2 @@
+rootProject.name='Brown egg'
+include ':app'
